@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+google-genai
+python-dotenv
+plotly
+transformers
+torch
+pillow
+pytesseract
